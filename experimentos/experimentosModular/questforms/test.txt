@@ -1,0 +1,11 @@
+1. Nome completo do paciente
+Tipo: Texto curto
+2. Data de nascimento
+Tipo: Data
+3. Sexo biológico
+Tipo: Múltipla escolha
+Opções: Masculino, Feminino, Intersexo
+4. Peso atual (kg)
+Tipo: Número
+5. Altura (cm)
+Tipo: Número

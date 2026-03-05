@@ -1,0 +1,64 @@
+1. Nome completo do paciente
+Tipo: Texto curto
+2. Data do diagnóstico de Diabetes Mellitus Tipo 1
+Tipo: Data
+3. E-mail de contato para envio de relatórios
+Tipo: E-mail
+4. Telefone celular com DDD (WhatsApp)
+Tipo: Telefone
+5. Qual foi o seu último valor de Hemoglobina Glicada (HbA1c)?
+Tipo: Número decimal
+6. Qual o seu peso atual em quilogramas?
+Tipo: Número decimal
+7. Quantas unidades de insulina basal você utiliza por dia?
+Tipo: Número inteiro
+8. Qual o horário aproximado da sua primeira aplicação de insulina do dia?
+Tipo: Hora
+9. Quais tipos de insulina você utiliza atualmente?
+Tipo: Caixa de seleção
+Opções: Insulina de ação ultra-rápida, Insulina de ação rápida, Insulina de ação intermediária (NPH), Insulina de ação prolongada, Insulina ultra-prolongada
+10. Qual método de administração de insulina você utiliza?
+Tipo: Múltipla escolha
+Opções: Caneta de insulina, Seringa, Bomba de infusão contínua (SICI)
+11. Com que frequência você realiza a monitorização da glicemia capilar (ponta de dedo) por dia?
+Tipo: Número inteiro
+12. Você utiliza sistema de monitorização contínua de glicose (Sensor)?
+Tipo: Múltipla escolha
+Opções: Sim, Não
+13. Selecione os sintomas de hipoglicemia que você costuma sentir:
+Tipo: Caixa de seleção
+Opções: Tremor, Suor frio, Tontura, Fome excessiva, Irritabilidade, Confusão mental, Visão turva
+14. Quantos episódios de hipoglicemia grave (com necessidade de ajuda de terceiros) você teve no último ano?
+Tipo: Número inteiro
+15. Você realiza a contagem de carboidratos para as refeições?
+Tipo: Múltipla escolha
+Opções: Sim, sempre, Às vezes, Não realizo
+16. Qual a sua relação insulina/carboidrato no café da manhã?
+Tipo: Texto curto
+17. Você pratica atividades físicas regularmente?
+Tipo: Múltipla escolha
+Opções: Sim, diariamente, 3 a 5 vezes por semana, 1 a 2 vezes por semana, Não pratico
+18. Descreva como você ajusta a dose de insulina antes de praticar exercícios:
+Tipo: Texto longo
+19. Já apresentou episódios de Cetoacidose Diabética?
+Tipo: Múltipla escolha
+Opções: Sim, uma vez, Sim, múltiplas vezes, Nunca apresentei
+20. Possui alguma complicação crônica já diagnosticada?
+Tipo: Caixa de seleção
+Opções: Retinopatia, Nefropatia, Neuropatia, Pé diabético, Nenhuma
+21. Qual foi o valor da sua última glicemia de jejum medida em laboratório?
+Tipo: Número inteiro
+22. Você faz uso de algum outro medicamento além da insulina?
+Tipo: Texto longo
+23. Horário habitual de dormir (início do repouso):
+Tipo: Hora
+24. Você possui o kit de Glucagon para emergências em domicílio?
+Tipo: Múltipla escolha
+Opções: Sim, dentro da validade, Sim, mas está vencido, Não possuo
+25. Qual a sua altura em centímetros?
+Tipo: Número inteiro
+26. Com que frequência você visita o seu endocrinologista?
+Tipo: Múltipla escolha
+Opções: Mensalmente, A cada 3 meses, A cada 6 meses, Anualmente
+27. Relate qualquer dificuldade específica que você enfrenta no manejo diário do DM1:
+Tipo: Texto longo

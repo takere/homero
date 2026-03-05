@@ -1,0 +1,73 @@
+1. Nome completo do paciente
+Tipo: Texto
+2. Data de nascimento
+Tipo: Data
+3. Horário de chegada à unidade
+Tipo: Hora
+4. E-mail de contato para envio de orientações
+Tipo: Email
+5. Telefone de contato (com DDD)
+Tipo: Telefone
+6. Qual o motivo principal da queixa no momento?
+Tipo: Texto
+7. Há quanto tempo iniciaram os sintomas? (Informar em horas)
+Tipo: Número inteiro
+8. Temperatura axilar aferida (°C)
+Tipo: Número decimal
+9. Qual a sua saturação de oxigênio atual (SpO2 %)?
+Tipo: Número inteiro
+10. Frequência cardíaca (BPM)
+Tipo: Número inteiro
+11. Pressão Arterial Sistólica (ex: 120)
+Tipo: Número inteiro
+12. Pressão Arterial Diastólica (ex: 80)
+Tipo: Número inteiro
+13. Apresenta dor súbita e intensa?
+Tipo: Seleção única
+Opções: Sim, Não
+14. Nível de dor atual (escala de 0 a 10)
+Tipo: Seleção única
+Opções: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10
+15. O paciente apresenta sinais de comprometimento das vias aéreas?
+Tipo: Seleção única
+Opções: Sim, Não
+16. Há presença de hemorragia exanguinante (grande fluxo)?
+Tipo: Seleção única
+Opções: Sim, Não
+17. Nível de consciência atual (Escala de Glasgow)
+Tipo: Seleção única
+Opções: Alerta, Responde a estímulo verbal, Responde a estímulo doloroso, Não responde
+18. O paciente apresenta sinais de choque (palidez, suor frio, pulso fraco)?
+Tipo: Seleção única
+Opções: Sim, Não
+19. Houve perda de consciência presenciada?
+Tipo: Seleção única
+Opções: Sim, Não
+20. Selecione as condições de risco observadas:
+Tipo: Checkbox
+Opções: Dispneia grave, Convulsão ativa, Dor torácica típica, Déficit neurológico agudo, Trauma grave
+21. O paciente apresenta sinais de desidratação?
+Tipo: Seleção única
+Opções: Sim, Não
+22. Existe histórico de doenças crônicas?
+Tipo: Checkbox
+Opções: Diabetes, Hipertensão, Insuficiência Renal, DPOC, Cardiopatia, Nenhuma
+23. Faz uso de medicação anticoagulante?
+Tipo: Seleção única
+Opções: Sim, Não
+24. Glicemia capilar (mg/dL)
+Tipo: Número inteiro
+25. Peso estimado ou aferido (kg)
+Tipo: Número decimal
+26. Apresenta vômitos persistentes?
+Tipo: Seleção única
+Opções: Sim, Não
+27. Escala de Manchester - Fluxograma aplicado
+Tipo: Seleção única
+Opções: Emergência (Vermelho), Muito Urgente (Laranja), Urgente (Amarelo), Pouco Urgente (Verde), Não Urgente (Azul)
+28. Descreva detalhes sobre o mecanismo do trauma (se aplicável)
+Tipo: Texto
+29. Quantas vezes buscou atendimento por este motivo nos últimos 7 dias?
+Tipo: Número inteiro
+30. Observações adicionais do enfermeiro triador
+Tipo: Outros

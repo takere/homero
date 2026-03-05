@@ -1,0 +1,93 @@
+1. Nome completo do paciente
+Tipo: Texto curto
+2. Data do diagnóstico de Diabetes Mellitus Tipo 1
+Tipo: Data
+3. Idade atual
+Tipo: Número inteiro
+4. E-mail de contato para acompanhamento
+Tipo: E-mail
+5. Telefone celular (WhatsApp)
+Tipo: Telefone
+6. Qual o seu sexo biológico?
+Tipo: Múltipla escolha
+Opções: Masculino, Feminino, Intersexo
+7. Qual foi o seu peso no momento do diagnóstico (kg)?
+Tipo: Número decimal
+8. Qual o seu peso atual (kg)?
+Tipo: Número decimal
+9. Qual a sua altura atual (cm)?
+Tipo: Número inteiro
+10. A que horas você costuma realizar a primeira medição de glicemia do dia?
+Tipo: Hora
+11. Quais sintomas você apresentou antes do diagnóstico?
+Tipo: Caixa de seleção
+Opções: Sede excessiva, Perda de peso, Urina frequente, Fome excessiva, Visão turba, Fadiga
+12. Você possui parentes de primeiro grau com DM1?
+Tipo: Múltipla escolha
+Opções: Sim, Não
+13. Qual o valor da sua última Hemoglobina Glicada (HbA1c)?
+Tipo: Número decimal
+14. Data da última consulta com endocrinologista
+Tipo: Data
+15. Quais tipos de insulina você utiliza atualmente?
+Tipo: Caixa de seleção
+Opções: Insulina de ação ultra-rápida, Insulina de ação rápida, Insulina de ação intermediária (NPH), Insulina de ação lenta/prolongada
+16. Qual o nome comercial da insulina basal que você utiliza?
+Tipo: Texto curto
+17. Quantas unidades de insulina basal você aplica por dia?
+Tipo: Número inteiro
+18. Você utiliza bomba de infusão de insulina?
+Tipo: Múltipla escolha
+Opções: Sim, Não
+19. Qual o seu método principal de monitorização glicêmica?
+Tipo: Múltipla escolha
+Opções: Glicímetro de ponta de dedo, Sensor de monitorização contínua (CGM), Ambos
+20. Quantas vezes ao dia você verifica sua glicemia capilar?
+Tipo: Número inteiro
+21. Você realiza a contagem de carboidratos em todas as refeições?
+Tipo: Múltipla escolha
+Opções: Sim, Não, Às vezes
+22. Qual a sua relação insulina/carboidrato no café da manhã?
+Tipo: Número decimal
+23. Qual o seu fator de sensibilidade à insulina?
+Tipo: Número inteiro
+24. Qual a sua meta glicêmica alvo estabelecida pelo médico (mg/dL)?
+Tipo: Texto curto
+25. Quantos episódios de hipoglicemia grave (com necessidade de ajuda) você teve no último ano?
+Tipo: Número inteiro
+26. Quais sintomas você sente durante uma hipoglicemia?
+Tipo: Caixa de seleção
+Opções: Tremores, Suor frio, Tontura, Confusão mental, Fome intensa, Irritabilidade
+27. Você costuma ter episódios de hiperglicemia matinal (fenômeno do alvorecer)?
+Tipo: Múltipla escolha
+Opções: Sim, Não
+28. Já apresentou episódios de Cetoacidose Diabética (CAD)?
+Tipo: Múltipla escolha
+Opções: Sim, Não
+29. Se respondeu "Sim", quantas vezes foi hospitalizado por CAD?
+Tipo: Número inteiro
+30. Você pratica exercícios físicos regularmente?
+Tipo: Múltipla escolha
+Opções: Sim, Não
+31. Quantos minutos de atividade física você realiza por semana?
+Tipo: Número inteiro
+32. Qual a sua glicemia média antes de iniciar um exercício (mg/dL)?
+Tipo: Número inteiro
+33. Você possui outras condições autoimunes associadas?
+Tipo: Caixa de seleção
+Opções: Doença Celíaca, Tireoidite de Hashimoto, Vitiligo, Nenhuma, Outras
+34. Data do seu último exame de fundo de olho (Retinografia)
+Tipo: Data
+35. Alguma vez foi detectada microalbuminúria em seus exames de urina?
+Tipo: Múltipla escolha
+Opções: Sim, Não, Não sei
+36. Você sente formigamento ou perda de sensibilidade nos pés?
+Tipo: Múltipla escolha
+Opções: Sim, Não
+37. Quantas horas de sono você tem, em média, por noite?
+Tipo: Número decimal
+38. Em uma escala de 1 a 10, quão difícil é para você manejar o diabetes diariamente?
+Tipo: Escala linear
+Opções: 1, 10
+39. Descreva brevemente sua maior dificuldade no tratamento atual
+Tipo: Texto longo

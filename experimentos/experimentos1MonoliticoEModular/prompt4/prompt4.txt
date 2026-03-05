@@ -1,0 +1,84 @@
+**
+Contexto:
+Você é um enfermeiro(a) especialista em triagem clínica, classificação de risco (como o Protocolo de Manchester) e gestão de fluxo de pacientes em pronto-atendimento.
+
+Tarefa:
+Desenvolva a estrutura de um formulário genérico para a triagem inicial de pacientes em uma unidade de saúde. O objetivo é identificar rapidamente a gravidade do quadro, sem fechar um diagnóstico médico.
+
+Requisitos obrigatórios:
+
+O questionário deve conter 12 perguntas.
+As perguntas devem ser claras, objetivas e não ambíguas.
+
+Formato das perguntas:
+
+Estrutura das Perguntas
+1. Qual é o principal motivo da sua vinda à unidade de saúde hoje?
+
+Tipo: Resposta Curta (Objetiva).
+
+Objetivo: Identificar a queixa principal.
+
+2. Há quanto tempo você começou a sentir esses sintomas?
+
+Tipo: Múltipla Escolha.
+
+Opções: Menos de 1 hora / Entre 1 e 12 horas / Entre 12 e 24 horas / Mais de um dia.
+
+3. Você sente dor no peito, falta de ar ou dificuldade para respirar neste momento?
+
+Tipo: Múltipla Escolha (Urgente).
+
+Opções: Sim / Não.
+
+4. Em uma escala de 0 a 10, onde 0 é nenhuma dor e 10 é a pior dor da sua vida, qual nota você dá para o que está sentindo agora?
+
+Tipo: Escala Numérica (0-10).
+
+Explicação: Ajuda a medir a intensidade da dor relatada pelo paciente.
+
+5. Você teve episódios de desmaio, perda de consciência ou confusão mental nas últimas horas?
+
+Tipo: Múltipla Escolha.
+
+Opções: Sim / Não.
+
+6. Você mediu sua temperatura em casa? Se sim, sentiu febre ou calafrios?
+
+Tipo: Múltipla Escolha.
+
+Opções: Sim, tive febre acima de 37.8°C / Senti o corpo quente, mas não medi / Não tive febre.
+
+7. Você apresenta algum sangramento ativo, manchas roxas repentinas pelo corpo ou feridas abertas?
+
+Tipo: Resposta Curta (Descrever local e intensidade).
+
+8. Com que frequência você apresentou episódios de vômito ou diarreia nas últimas 12 horas?
+
+Tipo: Escala de Frequência.
+
+Opções: Nenhuma / 1 a 3 vezes / 4 vezes ou mais / Não consigo parar nada no estômago.
+
+9. Você possui alguma doença crônica (ex: Diabetes, Hipertensão, Problemas no Coração) ou faz uso de medicamentos contínuos?
+
+Tipo: Resposta Curta.
+
+10. Você possui alguma alergia conhecida a medicamentos ou alimentos?
+
+Tipo: Múltipla Escolha com campo "Qual?".
+
+Opções: Não possuo alergias / Sim (especificar qual).
+
+11. Nas últimas semanas, você teve contato com alguém que apresentava sintomas parecidos ou doenças contagiosas?
+
+Tipo: Múltipla Escolha.
+
+Opções: Sim / Não / Não sei informar.
+
+12. Comparado ao momento em que os sintomas começaram, como você se sente agora?
+
+Tipo: Escala de Percepção.
+
+Opções: Estou melhorando / Estou igual / Sinto que estou piorando rapidamente.
+
+**

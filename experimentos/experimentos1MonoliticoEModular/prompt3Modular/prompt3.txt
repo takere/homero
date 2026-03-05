@@ -1,0 +1,103 @@
+Contexto:
+Você é um especialista em saúde (endocrinologia/educação em diabetes) com experiência em construção de instrumentos de avaliação clínica e questionários de pesquisa.
+
+Tarefa:
+Crie um questionário completo sobre Diabetes Mellitus Tipo 1 (DM1).
+
+Requisitos obrigatórios:
+
+O questionário deve conter 12 perguntas.
+As perguntas devem ser claras, objetivas e não ambíguas.
+
+Formato das perguntas:
+**
+Questionário de Monitoramento e Rotina: DM1
+Bloco 1: Manejo Diário e Glicemia
+1. Com que frequência você realiza a ponta de dedo (glicemia capilar) ou verifica seu sensor de monitoramento contínuo?
+
+Tipo: Escala (Frequência)
+
+Opções: Menos de 4 vezes ao dia / 4 a 6 vezes ao dia / Mais de 6 vezes ao dia.
+
+2. Como você decide a dose de insulina rápida/ultrarrápida que deve aplicar antes das refeições?
+
+Tipo: Múltipla Escolha
+
+Opções:
+
+Uso sempre a mesma dose fixa.
+
+Faço a contagem de carboidratos (uso uma relação dose/carbo).
+
+Decido com base no que vou comer, mas sem um cálculo exato.
+
+Aplico apenas se a glicemia estiver alta.
+
+3. Qual foi o valor aproximado da sua última Hemoglobina Glicada (HbA1c) e há quanto tempo o exame foi feito?
+
+Tipo: Resposta Curta
+
+(Nota: A Hemoglobina Glicada mostra a média do açúcar no sangue dos últimos 3 meses).
+
+Bloco 2: Hipoglicemia e Segurança
+4. Nas últimas duas semanas, quantas vezes você sentiu sintomas de "açúcar baixo" (hipoglicemia), como tremores, suor frio ou tontura?
+
+Tipo: Múltipla Escolha
+
+Opções: Nenhuma vez / 1 a 2 vezes / 3 vezes ou mais / Quase todos os dias.
+
+5. Quando você sente que sua glicemia está baixa, qual é a sua primeira atitude para corrigir?
+
+Tipo: Resposta Curta
+
+6. Você costuma carregar consigo uma fonte de açúcar de absorção rápida (ex: sachê de mel, balas, tablete de glicose) para emergências?
+
+Tipo: Escala
+
+Opções: Nunca / Às vezes / Sempre.
+
+Bloco 3: Estilo de Vida e Tratamento
+7. Sobre o rodízio dos locais de aplicação de insulina (braços, abdômen, coxas, glúteos): como você o realiza?
+
+Tipo: Múltipla Escolha
+
+Opções:
+
+Mudo o local a cada aplicação.
+
+Mudo de local apenas uma vez por dia.
+
+Aplico quase sempre na mesma região.
+
+Não costumo fazer rodízio.
+
+8. Como você descreveria sua facilidade em manter uma alimentação equilibrada seguindo as orientações nutricionais?
+
+Tipo: Escala (Percepção)
+
+Opções: Muito difícil / Difícil / Moderada / Fácil / Muito fácil.
+
+9. Com que frequência você pratica atividades físicas (pelo menos 30 minutos por sessão)?
+
+Tipo: Escala (Frequência)
+
+Opções: Nunca / 1 a 2 vezes por semana / 3 ou mais vezes por semana.
+
+Bloco 4: Aspectos Emocionais e Suporte
+10. "Sinto-me sobrecarregado(a) pelas exigências diárias de cuidar do diabetes." O quanto você concorda com essa frase?
+
+Tipo: Escala (Likert)
+
+Opções: Discordo totalmente / Discordo / Neutro / Concordo / Concordo totalmente.
+
+11. Em uma escala de 0 a 10, o quanto você se sente confiante para ajustar seu tratamento diante de uma situação inesperada (como uma festa ou uma doença leve)?
+
+Tipo: Escala Numérica (0 = Nada confiante; 10 = Totalmente confiante).
+
+12. Qual é a sua maior dificuldade ou dúvida atual em relação ao tratamento do Diabetes Tipo 1?
+
+Tipo: Resposta Curta
+**
+
+Saída esperada:
+Um questionário estruturado, pronto para ser aplicado ou adaptado a formulários digitais.

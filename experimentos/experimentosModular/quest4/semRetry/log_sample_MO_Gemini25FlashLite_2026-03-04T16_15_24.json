@@ -1,0 +1,1102 @@
+{
+    "interpretation": [
+        {
+            "typeQuestion": "IntegerQuestion",
+            "question": "1. Qual a sua idade atual?",
+            "options": null
+        },
+        {
+            "typeQuestion": "IntegerQuestion",
+            "question": "2. Com que idade voc\u00ea recebeu o diagn\u00f3stico de Diabetes Mellitus Tipo 1?",
+            "options": null
+        },
+        {
+            "typeQuestion": "TextQuestion",
+            "question": "3. Qual foi o seu \u00faltimo valor de Hemoglobina Glicada (HbA1c)?",
+            "options": null
+        },
+        {
+            "typeQuestion": "SingleSelectionQuestion",
+            "question": "4. Qual o m\u00e9todo principal que voc\u00ea utiliza para monitorar sua glicose?",
+            "options": [
+                "Glicos\u00edmetro (ponta de dedo)",
+                "Sensor de monitoramento cont\u00ednuo (CGM)",
+                "Flash (FreeStyle Libre)"
+            ]
+        },
+        {
+            "typeQuestion": "IntegerQuestion",
+            "question": "5. Quantas vezes ao dia, em m\u00e9dia, voc\u00ea realiza a ponta de dedo ou verifica o sensor?",
+            "options": null
+        },
+        {
+            "typeQuestion": "SingleSelectionQuestion",
+            "question": "6. Qual o seu esquema atual de insulinoterapia?",
+            "options": [
+                "M\u00faltiplas doses di\u00e1rias (caneta/seringa)",
+                "Bomba de infus\u00e3o de insulina (RII)"
+            ]
+        },
+        {
+            "typeQuestion": "CheckboxQuestion",
+            "question": "7. Quais tipos de insulina voc\u00ea utiliza atualmente?",
+            "options": [
+                "Insulina ultra-r\u00e1pida",
+                "Insulina r\u00e1pida",
+                "Insulina basal (NPH)",
+                "Insulina an\u00e1loga de longa dura\u00e7\u00e3o",
+                "Outras"
+            ]
+        },
+        {
+            "typeQuestion": "SingleSelectionQuestion",
+            "question": "8. Voc\u00ea realiza a contagem de carboidratos para as refei\u00e7\u00f5es?",
+            "options": [
+                "Sim, sempre",
+                "Sim, \u00e0s vezes",
+                "N\u00e3o realizo"
+            ]
+        },
+        {
+            "typeQuestion": "TextQuestion",
+            "question": "9. Qual a sua meta glic\u00eamica alvo definida pela equipe m\u00e9dica (mg/dL)?",
+            "options": null
+        },
+        {
+            "typeQuestion": "SingleSelectionQuestion",
+            "question": "10. Com que frequ\u00eancia voc\u00ea apresenta epis\u00f3dios de hipoglicemia (menor que 70 mg/dL) por semana?",
+            "options": [
+                "Nunca",
+                "1 a 2 vezes",
+                "3 a 5 vezes",
+                "Mais de 5 vezes"
+            ]
+        },
+        {
+            "typeQuestion": "SingleSelectionQuestion",
+            "question": "11. Voc\u00ea costuma sentir os sintomas f\u00edsicos da hipoglicemia quando ela ocorre?",
+            "options": [
+                "Sim, sinto claramente",
+                "Sinto apenas se estiver muito baixa",
+                "N\u00e3o sinto mais (hipoglicemia assintom\u00e1tica)"
+            ]
+        },
+        {
+            "typeQuestion": "SingleSelectionQuestion",
+            "question": "12. J\u00e1 apresentou algum epis\u00f3dio de hipoglicemia grave (com perda de consci\u00eancia ou necessidade de ajuda de terceiros) no \u00faltimo ano?",
+            "options": [
+                "Sim",
+                "N\u00e3o"
+            ]
+        },
+        {
+            "typeQuestion": "IntegerQuestion",
+            "question": "13. Quantas vezes voc\u00ea j\u00e1 foi hospitalizado por Cetoacidose Diab\u00e9tica (CAD)?",
+            "options": null
+        },
+        {
+            "typeQuestion": "SingleSelectionQuestion",
+            "question": "14. Voc\u00ea possui o h\u00e1bito de rotacionar os locais de aplica\u00e7\u00e3o de insulina?",
+            "options": [
+                "Sim, sempre",
+                "\u00c0s vezes",
+                "Raramente"
+            ]
+        },
+        {
+            "typeQuestion": "SingleSelectionQuestion",
+            "question": "15. Voc\u00ea apresenta \u00e1reas de lipodistrofia (n\u00f3dulos ou endurecimentos nos locais de aplica\u00e7\u00e3o)?",
+            "options": [
+                "Sim",
+                "N\u00e3o",
+                "N\u00e3o sei identificar"
+            ]
+        },
+        {
+            "typeQuestion": "SingleSelectionQuestion",
+            "question": "16. Com que frequ\u00eancia voc\u00ea pratica atividades f\u00edsicas?",
+            "options": [
+                "Sedent\u00e1rio",
+                "1 a 2 vezes por semana",
+                "3 a 5 vezes por semana",
+                "Diariamente"
+            ]
+        },
+        {
+            "typeQuestion": "TextQuestion",
+            "question": "17. Voc\u00ea ajusta a dose de insulina ou o consumo de carboidratos antes de se exercitar?",
+            "options": null
+        },
+        {
+            "typeQuestion": "TextQuestion",
+            "question": "18. Voc\u00ea possui outras condi\u00e7\u00f5es autoimunes associadas (ex: Tireoidite de Hashimoto, Doen\u00e7a Cel\u00edaca)?",
+            "options": null
+        },
+        {
+            "typeQuestion": "SingleSelectionQuestion",
+            "question": "19. Realiza o exame de fundo de olho (mapeamento de retina) anualmente?",
+            "options": [
+                "Sim",
+                "N\u00e3o"
+            ]
+        },
+        {
+            "typeQuestion": "SingleSelectionQuestion",
+            "question": "20. J\u00e1 realizou exames para avaliar a fun\u00e7\u00e3o renal (microalbumin\u00faria/creatinina) nos \u00faltimos 12 meses?",
+            "options": [
+                "Sim",
+                "N\u00e3o"
+            ]
+        },
+        {
+            "typeQuestion": "TextQuestion",
+            "question": "21. Como voc\u00ea avalia o impacto do diabetes na sua sa\u00fade mental e rotina di\u00e1ria?",
+            "options": null
+        }
+    ],
+    "itemContainer": [
+        {
+            "extents": "SurveyItem",
+            "objectType": "IntegerQuestion",
+            "templateID": "TML4",
+            "customID": "TML4",
+            "dataType": "Integer",
+            "label": {
+                "ptBR": {
+                    "extends": "StudioObject",
+                    "objectType": "Label",
+                    "oid": "",
+                    "plainText": "1. Qual a sua idade atual?",
+                    "formattedText": "1. Qual a sua idade atual?"
+                },
+                "enUS": {
+                    "extends": "StudioObject",
+                    "objectType": "Label",
+                    "oid": "",
+                    "plainText": "",
+                    "formattedText": ""
+                },
+                "esES": {
+                    "extends": "StudioObject",
+                    "objectType": "Label",
+                    "oid": "",
+                    "plainText": "",
+                    "formattedText": ""
+                }
+            },
+            "metadata": {
+                "extents": "StudioObject",
+                "objectType": "MetadataGroup",
+                "options": []
+            },
+            "unit": {
+                "ptBR": {
+                    "extends": "StudioObject",
+                    "objectType": "Unit",
+                    "oid": "",
+                    "plainText": "",
+                    "formattedText": ""
+                },
+                "enUS": {
+                    "extends": "StudioObject",
+                    "objectType": "Unit",
+                    "oid": "",
+                    "plainText": "",
+                    "formattedText": ""
+                },
+                "esES": {
+                    "extends": "StudioObject",
+                    "objectType": "Unit",
+                    "oid": "",
+                    "plainText": "",
+                    "formattedText": ""
+                }
+            },
+            "fillingRules": {
+                "extends": "StudioObject",
+                "objectType": "FillingRules",
+                "options": {
+                    "mandatory": {
+                        "extends": "StudioObject",
+                        "objectType": "Rule",
+                        "validatorType": "mandatory",
+                        "data": {
+                            "canBeIgnored": false,
+                            "reference": true
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "extents": "SurveyItem",
+            "objectType": "IntegerQuestion",
+            "templateID": "TML4",
+            "customID": "TML4",
+            "dataType": "Integer",
+            "label": {
+                "ptBR": {
+                    "extends": "StudioObject",
+                    "objectType": "Label",
+                    "oid": "",
+                    "plainText": "2. Com que idade voc\u00ea recebeu o diagn\u00f3stico de Diabetes Mellitus Tipo 1?",
+                    "formattedText": "2. Com que idade voc\u00ea recebeu o diagn\u00f3stico de Diabetes Mellitus Tipo 1?"
+                },
+                "enUS": {
+                    "extends": "StudioObject",
+                    "objectType": "Label",
+                    "oid": "",
+                    "plainText": "",
+                    "formattedText": ""
+                },
+                "esES": {
+                    "extends": "StudioObject",
+                    "objectType": "Label",
+                    "oid": "",
+                    "plainText": "",
+                    "formattedText": ""
+                }
+            },
+            "metadata": {
+                "extends": "StudioObject",
+                "objectType": "MetadataGroup",
+                "options": []
+            },
+            "unit": {
+                "ptBR": {
+                    "extends": "StudioObject",
+                    "objectType": "Unit",
+                    "oid": "",
+                    "plainText": "",
+                    "formattedText": ""
+                },
+                "enUS": {
+                    "extends": "StudioObject",
+                    "objectType": "Unit",
+                    "oid": "",
+                    "plainText": "",
+                    "formattedText": ""
+                },
+                "esES": {
+                    "extends": "StudioObject",
+                    "objectType": "Unit",
+                    "oid": "",
+                    "plainText": "",
+                    "formattedText": ""
+                }
+            },
+            "fillingRules": {
+                "extends": "StudioObject",
+                "objectType": "FillingRules",
+                "options": {
+                    "mandatory": {
+                        "extends": "StudioObject",
+                        "objectType": "Rule",
+                        "validatorType": "mandatory",
+                        "data": {
+                            "canBeIgnored": false,
+                            "reference": true
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "extents": "SurveyItem",
+            "objectType": "TextQuestion",
+            "templateID": "TML6",
+            "customID": "TML6",
+            "dataType": "String",
+            "label": {
+                "ptBR": {
+                    "extends": "StudioObject",
+                    "objectType": "Label",
+                    "oid": "",
+                    "plainText": "3. Qual foi o seu \u00faltimo valor de Hemoglobina Glicada (HbA1c)?",
+                    "formattedText": "3. Qual foi o seu \u00faltimo valor de Hemoglobina Glicada (HbA1c)?"
+                },
+                "enUS": {
+                    "extends": "StudioObject",
+                    "objectType": "Label",
+                    "oid": "",
+                    "plainText": "",
+                    "formattedText": ""
+                },
+                "esES": {
+                    "extends": "StudioObject",
+                    "objectType": "Label",
+                    "oid": "",
+                    "plainText": "",
+                    "formattedText": ""
+                }
+            },
+            "metadata": {
+                "extents": "StudioObject",
+                "objectType": "MetadataGroup",
+                "options": []
+            },
+            "fillingRules": {
+                "extends": "StudioObject",
+                "objectType": "FillingRules",
+                "options": {
+                    "mandatory": {
+                        "extends": "StudioObject",
+                        "objectType": "Rule",
+                        "validatorType": "mandatory",
+                        "data": {
+                            "canBeIgnored": false,
+                            "reference": true
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "extents": "SurveyItem",
+            "objectType": "SingleSelectionQuestion",
+            "templateID": "TML1",
+            "customID": "TML1",
+            "dataType": "Integer",
+            "label": {
+                "ptBR": {
+                    "extends": "StudioObject",
+                    "objectType": "Label",
+                    "oid": "",
+                    "plainText": "4. Qual o m\u00e9todo principal que voc\u00ea utiliza para monitorar sua glicose?",
+                    "formattedText": "4. Qual o m\u00e9todo principal que voc\u00ea utiliza para monitorar sua glicose?"
+                },
+                "enUS": {
+                    "extends": "StudioObject",
+                    "objectType": "Label",
+                    "oid": "",
+                    "plainText": "",
+                    "formattedText": ""
+                },
+                "esES": {
+                    "extends": "StudioObject",
+                    "objectType": "Label",
+                    "oid": "",
+                    "plainText": "",
+                    "formattedText": ""
+                }
+            },
+            "options": [
+                {
+                    "extents": "StudioObject",
+                    "objectType": "AnswerOption",
+                    "value": 1,
+                    "extractionValue": 1,
+                    "imageUrl": null,
+                    "imageTitle": false,
+                    "dataType": "Integer",
+                    "label": {
+                        "ptBR": {
+                            "extends": "StudioObject",
+                            "objectType": "Label",
+                            "oid": "",
+                            "plainText": "Glicos\u00edmetro (ponta de dedo)",
+                            "formattedText": "Glicos\u00edmetro (ponta de dedo)"
+                        },
+                        "enUS": {
+                            "extends": "StudioObject",
+                            "objectType": "Label",
+                            "oid": "",
+                            "plainText": "",
+                            "formattedText": ""
+                        },
+                        "esES": {
+                            "extends": "StudioObject",
+                            "objectType": "Label",
+                            "oid": "",
+                            "plainText": "",
+                            "formattedText": ""
+                        }
+                    }
+                },
+                {
+                    "extents": "StudioObject",
+                    "objectType": "AnswerOption",
+                    "value": 2,
+                    "extractionValue": 2,
+                    "imageUrl": null,
+                    "imageTitle": false,
+                    "dataType": "Integer",
+                    "label": {
+                        "ptBR": {
+                            "extends": "StudioObject",
+                            "objectType": "Label",
+                            "oid": "",
+                            "plainText": "Sensor de monitoramento cont\u00ednuo (CGM)",
+                            "formattedText": "Sensor de monitoramento cont\u00ednuo (CGM)"
+                        },
+                        "enUS": {
+                            "extends": "StudioObject",
+                            "objectType": "Label",
+                            "oid": "",
+                            "plainText": "",
+                            "formattedText": ""
+                        },
+                        "esES": {
+                            "extends": "StudioObject",
+                            "objectType": "Label",
+                            "oid": "",
+                            "plainText": "",
+                            "formattedText": ""
+                        }
+                    }
+                },
+                {
+                    "extents": "StudioObject",
+                    "objectType": "AnswerOption",
+                    "value": 3,
+                    "extractionValue": 3,
+                    "imageUrl": null,
+                    "imageTitle": false,
+                    "dataType": "Integer",
+                    "label": {
+                        "ptBR": {
+                            "extends": "StudioObject",
+                            "objectType": "Label",
+                            "oid": "",
+                            "plainText": "Flash (FreeStyle Libre)",
+                            "formattedText": "Flash (FreeStyle Libre)"
+                        },
+                        "enUS": {
+                            "extends": "StudioObject",
+                            "objectType": "Label",
+                            "oid": "",
+                            "plainText": "",
+                            "formattedText": ""
+                        },
+                        "esES": {
+                            "extends": "StudioObject",
+                            "objectType": "Label",
+                            "oid": "",
+                            "plainText": "",
+                            "formattedText": ""
+                        }
+                    }
+                }
+            ],
+            "metadata": {
+                "extents": "StudioObject",
+                "objectType": "MetadataGroup",
+                "options": []
+            },
+            "fillingRules": {
+                "extends": "StudioObject",
+                "objectType": "FillingRules",
+                "options": {
+                    "mandatory": {
+                        "extends": "StudioObject",
+                        "objectType": "Rule",
+                        "validatorType": "mandatory",
+                        "data": {
+                            "canBeIgnored": false,
+                            "reference": true
+                        }
+                    }
+                }
+            },
+            "imageUrl": null
+        },
+        {
+            "extents": "SurveyItem",
+            "objectType": "IntegerQuestion",
+            "templateID": "TML4",
+            "customID": "TML4",
+            "dataType": "Integer",
+            "label": {
+                "ptBR": {
+                    "extends": "StudioObject",
+                    "objectType": "Label",
+                    "oid": "",
+                    "plainText": "5. Quantas vezes ao dia, em m\u00e9dia, voc\u00ea realiza a ponta de dedo ou verifica o sensor?",
+                    "formattedText": "5. Quantas vezes ao dia, em m\u00e9dia, voc\u00ea realiza a ponta de dedo ou verifica o sensor?"
+                },
+                "enUS": {
+                    "extends": "StudioObject",
+                    "objectType": "Label",
+                    "oid": "",
+                    "plainText": "",
+                    "formattedText": ""
+                },
+                "esES": {
+                    "extends": "StudioObject",
+                    "objectType": "Label",
+                    "oid": "",
+                    "plainText": "",
+                    "formattedText": ""
+                }
+            },
+            "metadata": {
+                "extents": "StudioObject",
+                "objectType": "MetadataGroup",
+                "options": []
+            },
+            "unit": {
+                "ptBR": {
+                    "extends": "StudioObject",
+                    "objectType": "Unit",
+                    "oid": "",
+                    "plainText": "",
+                    "formattedText": ""
+                },
+                "enUS": {
+                    "extends": "StudioObject",
+                    "objectType": "Unit",
+                    "oid": "",
+                    "plainText": "",
+                    "formattedText": ""
+                },
+                "esES": {
+                    "extends": "StudioObject",
+                    "objectType": "Unit",
+                    "oid": "",
+                    "plainText": "",
+                    "formattedText": ""
+                }
+            },
+            "fillingRules": {
+                "extends": "StudioObject",
+                "objectType": "FillingRules",
+                "options": {
+                    "mandatory": {
+                        "extends": "StudioObject",
+                        "objectType": "Rule",
+                        "validatorType": "mandatory",
+                        "data": {
+                            "canBeIgnored": false,
+                            "reference": true
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "extents": "SurveyItem",
+            "objectType": "SingleSelectionQuestion",
+            "templateID": "TML1",
+            "customID": "TML1",
+            "dataType": "Integer",
+            "label": {
+                "ptBR": {
+                    "extends": "StudioObject",
+                    "objectType": "Label",
+                    "oid": "",
+                    "plainText": "6. Qual o seu esquema atual de insulinoterapia?",
+                    "formattedText": "6. Qual o seu esquema atual de insulinoterapia?"
+                },
+                "enUS": {
+                    "extends": "StudioObject",
+                    "objectType": "Label",
+                    "oid": "",
+                    "plainText": "",
+                    "formattedText": ""
+                },
+                "esES": {
+                    "extends": "StudioObject",
+                    "objectType": "Label",
+                    "oid": "",
+                    "plainText": "",
+                    "formattedText": ""
+                }
+            },
+            "options": [
+                {
+                    "extents": "StudioObject",
+                    "objectType": "AnswerOption",
+                    "value": 1,
+                    "extractionValue": 1,
+                    "imageUrl": null,
+                    "imageTitle": false,
+                    "dataType": "Integer",
+                    "label": {
+                        "ptBR": {
+                            "extends": "StudioObject",
+                            "objectType": "Label",
+                            "oid": "",
+                            "plainText": "M\u00faltiplas doses di\u00e1rias (caneta/seringa)",
+                            "formattedText": "M\u00faltiplas doses di\u00e1rias (caneta/seringa)"
+                        },
+                        "enUS": {
+                            "extends": "StudioObject",
+                            "objectType": "Label",
+                            "oid": "",
+                            "plainText": "",
+                            "formattedText": ""
+                        },
+                        "esES": {
+                            "extends": "StudioObject",
+                            "objectType": "Label",
+                            "oid": "",
+                            "plainText": "",
+                            "formattedText": ""
+                        }
+                    }
+                },
+                {
+                    "extents": "StudioObject",
+                    "objectType": "AnswerOption",
+                    "value": 2,
+                    "extractionValue": 2,
+                    "imageUrl": null,
+                    "imageTitle": false,
+                    "dataType": "Integer",
+                    "label": {
+                        "ptBR": {
+                            "extends": "StudioObject",
+                            "objectType": "Label",
+                            "oid": "",
+                            "plainText": "Bomba de infus\u00e3o de insulina (RII)",
+                            "formattedText": "Bomba de infus\u00e3o de insulina (RII)"
+                        },
+                        "enUS": {
+                            "extends": "StudioObject",
+                            "objectType": "Label",
+                            "oid": "",
+                            "plainText": "",
+                            "formattedText": ""
+                        },
+                        "esES": {
+                            "extends": "StudioObject",
+                            "objectType": "Label",
+                            "oid": "",
+                            "plainText": "",
+                            "formattedText": ""
+                        }
+                    }
+                }
+            ],
+            "metadata": {
+                "extents": "StudioObject",
+                "objectType": "MetadataGroup",
+                "options": []
+            },
+            "fillingRules": {
+                "extends": "StudioObject",
+                "objectType": "FillingRules",
+                "options": {
+                    "mandatory": {
+                        "extends": "StudioObject",
+                        "objectType": "Rule",
+                        "validatorType": "mandatory",
+                        "data": {
+                            "canBeIgnored": false,
+                            "reference": true
+                        }
+                    }
+                }
+            },
+            "imageUrl": null
+        },
+        {
+            "extents": "SurveyItem",
+            "objectType": "CheckboxQuestion",
+            "templateID": "TML2",
+            "customID": "TML2",
+            "dataType": "Array",
+            "label": {
+                "ptBR": {
+                    "extends": "StudioObject",
+                    "objectType": "Label",
+                    "oid": "",
+                    "plainText": "7. Quais tipos de insulina voc\u00ea utiliza atualmente?",
+                    "formattedText": "7. Quais tipos de insulina voc\u00ea utiliza atualmente?"
+                },
+                "enUS": {
+                    "extends": "StudioObject",
+                    "objectType": "Label",
+                    "oid": "",
+                    "plainText": "7. What types of insulin do you currently use?",
+                    "formattedText": "7. What types of insulin do you currently use?"
+                },
+                "esES": {
+                    "extends": "StudioObject",
+                    "objectType": "Label",
+                    "oid": "",
+                    "plainText": "7. \u00bfQu\u00e9 tipos de insulina utiliza actualmente?",
+                    "formattedText": "7. \u00bfQu\u00e9 tipos de insulina utiliza actualmente?"
+                }
+            },
+            "options": [
+                {
+                    "extents": "StudioObject",
+                    "objectType": "CheckboxAnswerOption",
+                    "optionID": "TML2a",
+                    "customOptionID": "TML2a",
+                    "dataType": "Boolean",
+                    "value": false,
+                    "label": {
+                        "ptBR": {
+                            "extends": "StudioObject",
+                            "objectType": "Label",
+                            "oid": "",
+                            "plainText": "Insulina ultra-r\u00e1pida",
+                            "formattedText": "Insulina ultra-r\u00e1pida"
+                        },
+                        "enUS": {
+                            "extends": "StudioObject",
+                            "objectType": "Label",
+                            "oid": "",
+                            "plainText": "Ultra-rapid insulin",
+                            "formattedText": "Ultra-rapid insulin"
+                        },
+                        "esES": {
+                            "extends": "StudioObject",
+                            "objectType": "Label",
+                            "oid": "",
+                            "plainText": "Insulina ultrarr\u00e1pida",
+                            "formattedText": "Insulina ultrarr\u00e1pida"
+                        }
+                    }
+                },
+                {
+                    "extents": "StudioObject",
+                    "objectType": "CheckboxAnswerOption",
+                    "optionID": "TML2b",
+                    "customOptionID": "TML2b",
+                    "dataType": "Boolean",
+                    "value": false,
+                    "label": {
+                        "ptBR": {
+                            "extends": "StudioObject",
+                            "objectType": "Label",
+                            "oid": "",
+                            "plainText": "Insulina r\u00e1pida",
+                            "formattedText": "Insulina r\u00e1pida"
+                        },
+                        "enUS": {
+                            "extends": "StudioObject",
+                            "objectType": "Label",
+                            "oid": "",
+                            "plainText": "Rapid-acting insulin",
+                            "formattedText": "Rapid-acting insulin"
+                        },
+                        "esES": {
+                            "extends": "StudioObject",
+                            "objectType": "Label",
+                            "oid": "",
+                            "plainText": "Insulina r\u00e1pida",
+                            "formattedText": "Insulina r\u00e1pida"
+                        }
+                    }
+                },
+                {
+                    "extents": "StudioObject",
+                    "objectType": "CheckboxAnswerOption",
+                    "optionID": "TML2c",
+                    "customOptionID": "TML2c",
+                    "dataType": "Boolean",
+                    "value": false,
+                    "label": {
+                        "ptBR": {
+                            "extends": "StudioObject",
+                            "objectType": "Label",
+                            "oid": "",
+                            "plainText": "Insulina basal (NPH)",
+                            "formattedText": "Insulina basal (NPH)"
+                        },
+                        "enUS": {
+                            "extends": "StudioObject",
+                            "objectType": "Label",
+                            "oid": "",
+                            "plainText": "Basal insulin (NPH)",
+                            "formattedText": "Basal insulin (NPH)"
+                        },
+                        "esES": {
+                            "extends": "StudioObject",
+                            "objectType": "Label",
+                            "oid": "",
+                            "plainText": "Insulina basal (NPH)",
+                            "formattedText": "Insulina basal (NPH)"
+                        }
+                    }
+                },
+                {
+                    "extents": "StudioObject",
+                    "objectType": "CheckboxAnswerOption",
+                    "optionID": "TML2d",
+                    "customOptionID": "TML2d",
+                    "dataType": "Boolean",
+                    "value": false,
+                    "label": {
+                        "ptBR": {
+                            "extends": "StudioObject",
+                            "objectType": "Label",
+                            "oid": "",
+                            "plainText": "Insulina an\u00e1loga de longa dura\u00e7\u00e3o",
+                            "formattedText": "Insulina an\u00e1loga de longa dura\u00e7\u00e3o"
+                        },
+                        "enUS": {
+                            "extends": "StudioObject",
+                            "objectType": "Label",
+                            "oid": "",
+                            "plainText": "Long-acting analog insulin",
+                            "formattedText": "Long-acting analog insulin"
+                        },
+                        "esES": {
+                            "extends": "StudioObject",
+                            "objectType": "Label",
+                            "oid": "",
+                            "plainText": "Insulina an\u00e1loga de acci\u00f3n prolongada",
+                            "formattedText": "Insulina an\u00e1loga de acci\u00f3n prolongada"
+                        }
+                    }
+                },
+                {
+                    "extents": "StudioObject",
+                    "objectType": "CheckboxAnswerOption",
+                    "optionID": "TML2e",
+                    "customOptionID": "TML2e",
+                    "dataType": "Boolean",
+                    "value": false,
+                    "label": {
+                        "ptBR": {
+                            "extends": "StudioObject",
+                            "objectType": "Label",
+                            "oid": "",
+                            "plainText": "Outras",
+                            "formattedText": "Outras"
+                        },
+                        "enUS": {
+                            "extends": "StudioObject",
+                            "objectType": "Label",
+                            "oid": "",
+                            "plainText": "Others",
+                            "formattedText": "Others"
+                        },
+                        "esES": {
+                            "extends": "StudioObject",
+                            "objectType": "Label",
+                            "oid": "",
+                            "plainText": "Otros",
+                            "formattedText": "Otros"
+                        }
+                    }
+                }
+            ],
+            "metadata": {
+                "extents": "StudioObject",
+                "objectType": "MetadataGroup",
+                "options": []
+            },
+            "fillingRules": {
+                "extends": "StudioObject",
+                "objectType": "FillingRules",
+                "options": {
+                    "mandatory": {
+                        "extends": "StudioObject",
+                        "objectType": "Rule",
+                        "validatorType": "mandatory",
+                        "data": {
+                            "canBeIgnored": false,
+                            "reference": true
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "extents": "SurveyItem",
+            "objectType": "SingleSelectionQuestion",
+            "templateID": "TML1",
+            "customID": "TML1",
+            "dataType": "Integer",
+            "label": {
+                "ptBR": {
+                    "extends": "StudioObject",
+                    "objectType": "Label",
+                    "oid": "",
+                    "plainText": "8. Voc\u00ea realiza a contagem de carboidratos para as refei\u00e7\u00f5es?",
+                    "formattedText": "8. Voc\u00ea realiza a contagem de carboidratos para as refei\u00e7\u00f5es?"
+                },
+                "enUS": {
+                    "extends": "StudioObject",
+                    "objectType": "Label",
+                    "oid": "",
+                    "plainText": "",
+                    "formattedText": ""
+                },
+                "esES": {
+                    "extends": "StudioObject",
+                    "objectType": "Label",
+                    "oid": "",
+                    "plainText": "",
+                    "formattedText": ""
+                }
+            },
+            "options": [
+                {
+                    "extents": "StudioObject",
+                    "objectType": "AnswerOption",
+                    "value": 1,
+                    "extractionValue": 1,
+                    "imageUrl": null,
+                    "imageTitle": false,
+                    "dataType": "Integer",
+                    "label": {
+                        "ptBR": {
+                            "extends": "StudioObject",
+                            "objectType": "Label",
+                            "oid": "",
+                            "plainText": "Sim, sempre",
+                            "formattedText": "Sim, sempre"
+                        },
+                        "enUS": {
+                            "extends": "StudioObject",
+                            "objectType": "Label",
+                            "oid": "",
+                            "plainText": "",
+                            "formattedText": ""
+                        },
+                        "esES": {
+                            "extends": "StudioObject",
+                            "objectType": "Label",
+                            "oid": "",
+                            "plainText": "",
+                            "formattedText": ""
+                        }
+                    }
+                },
+                {
+                    "extents": "StudioObject",
+                    "objectType": "AnswerOption",
+                    "value": 2,
+                    "extractionValue": 2,
+                    "imageUrl": null,
+                    "imageTitle": false,
+                    "dataType": "Integer",
+                    "label": {
+                        "ptBR": {
+                            "extends": "StudioObject",
+                            "objectType": "Label",
+                            "oid": "",
+                            "plainText": "Sim, \u00e0s vezes",
+                            "formattedText": "Sim, \u00e0s vezes"
+                        },
+                        "enUS": {
+                            "extends": "StudioObject",
+                            "objectType": "Label",
+                            "oid": "",
+                            "plainText": "",
+                            "formattedText": ""
+                        },
+                        "esES": {
+                            "extends": "StudioObject",
+                            "objectType": "Label",
+                            "oid": "",
+                            "plainText": "",
+                            "formattedText": ""
+                        }
+                    }
+                },
+                {
+                    "extents": "StudioObject",
+                    "objectType": "AnswerOption",
+                    "value": 3,
+                    "extractionValue": 3,
+                    "imageUrl": null,
+                    "imageTitle": false,
+                    "dataType": "Integer",
+                    "label": {
+                        "ptBR": {
+                            "extends": "StudioObject",
+                            "objectType": "Label",
+                            "oid": "",
+                            "plainText": "N\u00e3o realizo",
+                            "formattedText": "N\u00e3o realizo"
+                        },
+                        "enUS": {
+                            "extends": "StudioObject",
+                            "objectType": "Label",
+                            "oid": "",
+                            "plainText": "",
+                            "formattedText": ""
+                        },
+                        "esES": {
+                            "extends": "StudioObject",
+                            "objectType": "Label",
+                            "oid": "",
+                            "plainText": "",
+                            "formattedText": ""
+                        }
+                    }
+                }
+            ],
+            "metadata": {
+                "extents": "StudioObject",
+                "objectType": "MetadataGroup",
+                "options": []
+            },
+            "fillingRules": {
+                "extends": "StudioObject",
+                "objectType": "FillingRules",
+                "options": {
+                    "mandatory": {
+                        "extends": "StudioObject",
+                        "objectType": "Rule",
+                        "validatorType": "mandatory",
+                        "data": {
+                            "canBeIgnored": false,
+                            "reference": true
+                        }
+                    }
+                }
+            },
+            "imageUrl": null
+        },
+        {
+            "extents": "SurveyItem",
+            "objectType": "TextQuestion",
+            "templateID": "TML6",
+            "customID": "TML6",
+            "dataType": "String",
+            "label": {
+                "ptBR": {
+                    "extends": "StudioObject",
+                    "objectType": "Label",
+                    "oid": "",
+                    "plainText": "9. Qual a sua meta glic\u00eamica alvo definida pela equipe m\u00e9dica (mg/dL)?",
+                    "formattedText": "9. Qual a sua meta glic\u00eamica alvo definida pela equipe m\u00e9dica (mg/dL)?"
+                },
+                "enUS": {
+                    "extends": "StudioObject",
+                    "objectType": "Label",
+                    "oid": "",
+                    "plainText": "",
+                    "formattedText": ""
+                },
+                "esES": {
+                    "extends": "StudioObject",
+                    "objectType": "Label",
+                    "oid": "",
+                    "plainText": "",
+                    "formattedText": ""
+                }
+            },
+            "metadata": {
+                "extents": "StudioObject",
+                "objectType": "MetadataGroup",
+                "options": []
+            },
+            "fillingRules": {
+                "extends": "StudioObject",
+                "objectType": "FillingRules",
+                "options": {
+                    "mandatory": {
+                        "extends": "StudioObject",
+                        "objectType": "Rule",
+                        "validatorType": "mandatory",
+                        "data": {
+                            "canBeIgnored": false,
+                            "reference": true
+                        }
+                    }
+                }
+            }
+        },
+        "{\n    \"extents\": \"SurveyItem\",\n    \"objectType\": \"SingleSelectionQuestion\",\n    \"templateID\": \"TML1\",\n    "
+    ],
+    "error": "Error decoding JSON for element"
+}

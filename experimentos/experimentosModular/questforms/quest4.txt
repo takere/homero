@@ -1,0 +1,54 @@
+1. Qual a sua idade atual?
+Tipo: Número
+2. Com que idade você recebeu o diagnóstico de Diabetes Mellitus Tipo 1?
+Tipo: Número
+3. Qual foi o seu último valor de Hemoglobina Glicada (HbA1c)?
+Tipo: Texto curto
+4. Qual o método principal que você utiliza para monitorar sua glicose?
+Tipo: Múltipla escolha
+Opções: Glicosímetro (ponta de dedo), Sensor de monitoramento contínuo (CGM), Flash (FreeStyle Libre)
+5. Quantas vezes ao dia, em média, você realiza a ponta de dedo ou verifica o sensor?
+Tipo: Número
+6. Qual o seu esquema atual de insulinoterapia?
+Tipo: Múltipla escolha
+Opções: Múltiplas doses diárias (caneta/seringa), Bomba de infusão de insulina (RII)
+7. Quais tipos de insulina você utiliza atualmente?
+Tipo: Caixa de seleção
+Opções: Insulina ultra-rápida, Insulina rápida, Insulina basal (NPH), Insulina análoga de longa duração, Outras
+8. Você realiza a contagem de carboidratos para as refeições?
+Tipo: Múltipla escolha
+Opções: Sim, sempre; Sim, às vezes; Não realizo
+9. Qual a sua meta glicêmica alvo definida pela equipe médica (mg/dL)?
+Tipo: Texto curto
+10. Com que frequência você apresenta episódios de hipoglicemia (menor que 70 mg/dL) por semana?
+Tipo: Múltipla escolha
+Opções: Nunca, 1 a 2 vezes, 3 a 5 vezes, Mais de 5 vezes
+11. Você costuma sentir os sintomas físicos da hipoglicemia quando ela ocorre?
+Tipo: Múltipla escolha
+Opções: Sim, sinto claramente; Sinto apenas se estiver muito baixa; Não sinto mais (hipoglicemia assintomática)
+12. Já apresentou algum episódio de hipoglicemia grave (com perda de consciência ou necessidade de ajuda de terceiros) no último ano?
+Tipo: Múltipla escolha
+Opções: Sim, Não
+13. Quantas vezes você já foi hospitalizado por Cetoacidose Diabética (CAD)?
+Tipo: Número
+14. Você possui o hábito de rotacionar os locais de aplicação de insulina?
+Tipo: Múltipla escolha
+Opções: Sim, sempre; Às vezes; Raramente
+15. Você apresenta áreas de lipodistrofia (nódulos ou endurecimentos nos locais de aplicação)?
+Tipo: Múltipla escolha
+Opções: Sim, Não, Não sei identificar
+16. Com que frequência você pratica atividades físicas?
+Tipo: Múltipla escolha
+Opções: Sedentário, 1 a 2 vezes por semana, 3 a 5 vezes por semana, Diariamente
+17. Você ajusta a dose de insulina ou o consumo de carboidratos antes de se exercitar?
+Tipo: Texto longo
+18. Você possui outras condições autoimunes associadas (ex: Tireoidite de Hashimoto, Doença Celíaca)?
+Tipo: Texto curto
+19. Realiza o exame de fundo de olho (mapeamento de retina) anualmente?
+Tipo: Múltipla escolha
+Opções: Sim, Não
+20. Já realizou exames para avaliar a função renal (microalbuminúria/creatinina) nos últimos 12 meses?
+Tipo: Múltipla escolha
+Opções: Sim, Não
+21. Como você avalia o impacto do diabetes na sua saúde mental e rotina diária?
+Tipo: Texto longo

@@ -1,0 +1,44 @@
+1. Nome completo do paciente
+Tipo: Texto curto
+2. Data de nascimento
+Tipo: Data
+3. Sexo biológico
+Tipo: Múltipla escolha
+Opções: Masculino, Feminino, Intersexo
+4. Peso atual (kg)
+Tipo: Número
+5. Altura (cm)
+Tipo: Número
+6. Qual o motivo principal do atendimento hoje?
+Tipo: Texto longo
+7. Há quanto tempo iniciaram os sintomas relatados?
+Tipo: Texto curto
+8. Em uma escala de 0 a 10, qual o seu nível de dor neste momento?
+Tipo: Escala linear
+Opções: 0, 10
+9. Você possui alergia a algum medicamento ou substância?
+Tipo: Múltipla escolha
+Opções: Sim, Não
+10. Se respondeu "Sim" na questão anterior, por favor especifique:
+Tipo: Texto curto
+11. Você faz uso de alguma medicação de uso contínuo?
+Tipo: Múltipla escolha
+Opções: Sim, Não
+12. Liste os medicamentos que utiliza atualmente e suas respectivas dosagens:
+Tipo: Texto longo
+13. Possui diagnóstico de alguma das condições abaixo?
+Tipo: Caixa de seleção
+Opções: Hipertensão, Diabetes, Asma/DPOC, Cardiopatia, Doença Renal, Nenhuma
+14. Você já passou por alguma intervenção cirúrgica anteriormente?
+Tipo: Texto longo
+15. Qual o seu histórico quanto ao tabagismo?
+Tipo: Múltipla escolha
+Opções: Nunca fumei, Fumante ativo, Ex-fumante
+16. Com que frequência consome bebidas alcoólicas?
+Tipo: Múltipla escolha
+Opções: Nunca, Raramente, Semanalmente, Diariamente
+17. Apresentou febre ou calafrios nas últimas 24 horas?
+Tipo: Múltipla escolha
+Opções: Sim, Não
+18. Descreva qualquer outra observação que considere relevante para a triagem:
+Tipo: Texto longo

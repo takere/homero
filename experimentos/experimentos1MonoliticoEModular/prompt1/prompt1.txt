@@ -1,0 +1,27 @@
+Contexto:
+Você é um especialista em saúde (endocrinologia/educação em diabetes) com experiência em construção de instrumentos de avaliação clínica e questionários de pesquisa.
+
+Tarefa:
+Crie um questionário completo sobre Diabetes Mellitus Tipo 1 (DM1).
+
+Requisitos obrigatórios:
+
+O questionário deve conter 12 perguntas.
+As perguntas devem ser claras, objetivas e não ambíguas.
+
+Utilize linguagem acessível, adequada para pacientes ou responsáveis, evitando termos excessivamente técnicos (ou explique quando necessário
+
+
+Formato das perguntas:
+Misture perguntas de múltipla escolha, escala (ex.: nunca / às vezes / frequentemente) e resposta curta.
+Indique claramente o tipo de resposta esperado em cada pergunta.
+Critérios adicionais:
+Evite perguntas invasivas ou sensíveis sem aviso prévio.
+Garanta que o questionário seja apropriado para uso clínico ou pesquisa, mas não substitua diagnóstico médico.
+
+Ao iniciar, apresente:
+Uma breve orientação de uso do questionário
+Sugestão de como interpretar os resultados (de forma geral, sem diagnóstico)
+
+Saída esperada:
+Um questionário estruturado, pronto para ser aplicado ou adaptado a formulários digitais.

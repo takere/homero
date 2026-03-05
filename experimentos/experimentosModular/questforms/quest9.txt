@@ -1,0 +1,85 @@
+1. Nome completo do paciente
+Tipo: Texto curto
+2. Data de nascimento
+Tipo: Data
+3. Horário de chegada à unidade
+Tipo: Hora
+4. Sexo biológico
+Tipo: Múltipla escolha
+Opções: Masculino, Feminino, Intersexo
+5. Telefone de contato (com DDD)
+Tipo: Telefone
+6. Endereço de e-mail para envio de protocolo
+Tipo: E-mail
+7. Peso atual do paciente em quilogramas
+Tipo: Número decimal
+8. Escala de dor relatada (0 a 10)
+Tipo: Número inteiro
+9. Apresenta comprometimento das vias aéreas (estridor, obstrução)?
+Tipo: Múltipla escolha
+Opções: Sim, Não
+10. Apresenta sinais de choque ou hemorragia exanguinante?
+Tipo: Múltipla escolha
+Opções: Sim, Não
+11. Nível de consciência atual (Escala de Glasgow)
+Tipo: Número inteiro
+12. Frequência respiratória (incursões por minuto)
+Tipo: Número inteiro
+13. Saturação de oxigênio medida (%)
+Tipo: Número decimal
+14. Temperatura axilar (°C)
+Tipo: Número decimal
+15. Frequência cardíaca (batimentos por minuto)
+Tipo: Número inteiro
+16. Pressão arterial sistólica (mmHg)
+Tipo: Número inteiro
+17. Pressão arterial diastólica (mmHg)
+Tipo: Número inteiro
+18. Qual a queixa principal que motivou a busca pelo atendimento?
+Tipo: Texto longo
+19. Início dos sintomas
+Tipo: Data
+20. Selecione os sintomas de risco imediato observados:
+Tipo: Caixa de seleção
+Opções: Convulsão ativa, Alteração súbita de consciência, Dor torácica intensa, Dispneia grave, Nenhuma das anteriores
+21. O paciente apresenta sinais de desidratação grave?
+Tipo: Múltipla escolha
+Opções: Sim, Não
+22. Houve perda de consciência presenciada?
+Tipo: Múltipla escolha
+Opções: Sim, Não
+23. Presença de déficits neurológicos agudos (fala, força motora)?
+Tipo: Múltipla escolha
+Opções: Sim, Não
+24. Tempo estimado desde o início da dor torácica (em minutos)
+Tipo: Número inteiro
+25. Possui histórico de alergias graves?
+Tipo: Múltipla escolha
+Opções: Sim, Não
+26. Se sim, descreva as alergias conhecidas:
+Tipo: Texto longo
+27. Glicemia capilar atual (mg/dL)
+Tipo: Número inteiro
+28. O paciente é diabético?
+Tipo: Múltipla escolha
+Opções: Sim, Não
+29. Selecione comorbidades prévias:
+Tipo: Caixa de seleção
+Opções: Hipertensão, Insuficiência Renal, DPOC, Insuficiência Cardíaca, Imunossupressão
+30. Faz uso de anticoagulantes ou antiagregantes plaquetários?
+Tipo: Múltipla escolha
+Opções: Sim, Não
+31. Horário da última medicação analgésica tomada
+Tipo: Hora
+32. Presença de sinais de infecção sistêmica (calafrios, prostração)?
+Tipo: Múltipla escolha
+Opções: Sim, Não
+33. Classificação preliminar de risco (Manchester)
+Tipo: Múltipla escolha
+Opções: Vermelho (Emergência), Laranja (Muito Urgente), Amarelo (Urgente), Verde (Pouco Urgente), Azul (Não Urgente)
+34. Nome do profissional responsável pela triagem
+Tipo: Texto curto
+35. Registro profissional (CRM/COREN)
+Tipo: Texto curto
+36. Observações clínicas adicionais do triador
+Tipo: Texto longo

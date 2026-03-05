@@ -1,0 +1,58 @@
+1. Nome completo do paciente
+Tipo: Texto curto
+2. Data de nascimento
+Tipo: Data
+3. Sexo biológico
+Tipo: Múltipla escolha
+Opções: Masculino, Feminino, Intersexo
+4. Peso corporal (kg)
+Tipo: Número decimal
+5. Altura (cm)
+Tipo: Número inteiro
+6. E-mail de contato
+Tipo: E-mail
+7. Telefone com DDD
+Tipo: Telefone
+8. Horário de chegada à unidade
+Tipo: Hora
+9. Qual a sua queixa principal (motivo do atendimento)?
+Tipo: Texto curto
+10. Descreva detalhadamente o histórico da dor ou sintoma atual:
+Tipo: Texto longo
+11. Em uma escala de 0 a 10, qual o nível de dor agora?
+Tipo: Número inteiro
+12. Apresenta algum sinal de comprometimento das vias aéreas (ex: obstrução)?
+Tipo: Múltipla escolha
+Opções: Sim, Não
+13. Apresenta sinais de choque ou hemorragia exanguinante?
+Tipo: Múltipla escolha
+Opções: Sim, Não
+14. Selecione os sinais vitais alterados observados:
+Tipo: Caixa de seleção
+Opções: Febre, Hipotermia, Taquicardia, Bradicardia, Taquipneia, Nenhuma
+15. Temperatura axilar (°C)
+Tipo: Número decimal
+16. O início dos sintomas foi súbito ou gradual?
+Tipo: Múltipla escolha
+Opções: Súdito, Gradual
+17. Apresenta alteração do nível de consciência (Escala de Glasgow reduzida)?
+Tipo: Múltipla escolha
+Opções: Sim, Não
+18. Há quanto tempo (em horas) iniciaram os sintomas?
+Tipo: Número inteiro
+19. Selecione as comorbidades diagnosticadas:
+Tipo: Caixa de seleção
+Opções: Hipertensão, Diabetes, Insuficiência Renal, DPOC, Imunossupressão, Nenhuma
+20. Possui alergias medicamentosas?
+Tipo: Múltipla escolha
+Opções: Sim, Não
+21. Se sim, quais?
+Tipo: Texto curto
+22. Já passou por triagem nesta unidade nos últimos 7 dias?
+Tipo: Múltipla escolha
+Opções: Sim, Não
+23. SatO2 - Saturação de Oxigênio (%)
+Tipo: Número inteiro
+24. Classificação de risco sugerida (Manchester)
+Tipo: Múltipla escolha
+Opções: Vermelho (Emergência), Laranja (Muito Urgente), Amarelo (Urgente), Verde (Pouco Urgente), Azul (Não Urgente)

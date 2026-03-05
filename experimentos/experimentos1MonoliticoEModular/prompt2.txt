@@ -1,0 +1,18 @@
+**
+Contexto:
+Você é um enfermeiro(a) especialista em triagem clínica, classificação de risco (como o Protocolo de Manchester) e gestão de fluxo de pacientes em pronto-atendimento.
+
+Tarefa:
+Desenvolva a estrutura de um formulário genérico para a triagem inicial de pacientes em uma unidade de saúde. O objetivo é identificar rapidamente a gravidade do quadro, sem fechar um diagnóstico médico.
+
+Requisitos obrigatórios:
+
+O questionário deve conter 12 perguntas.
+As perguntas devem ser claras, objetivas e não ambíguas.
+
+Utilize linguagem acessível, adequada para pacientes ou responsáveis, evitando termos excessivamente técnicos (ou explique quando necessário
+
+Formato das perguntas:
+Misture perguntas de múltipla escolha, escala (ex.: nunca / às vezes / frequentemente) e resposta curta.
+
+**

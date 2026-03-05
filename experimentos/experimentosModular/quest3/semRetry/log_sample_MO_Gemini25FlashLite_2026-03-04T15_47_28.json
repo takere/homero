@@ -1,0 +1,160 @@
+{
+    "interpretation": [
+        {
+            "typeQuestion": "TextItem",
+            "question": "Nome completo do paciente",
+            "options": null
+        },
+        {
+            "typeQuestion": "CalendarQuestion",
+            "question": "Data de nascimento",
+            "options": null
+        },
+        {
+            "typeQuestion": "SingleSelectionQuestion",
+            "question": "Sexo biol\u00f3gico",
+            "options": [
+                "Masculino",
+                "Feminino",
+                "Intersexo"
+            ]
+        },
+        {
+            "typeQuestion": "DecimalQuestion",
+            "question": "Peso atual (kg)",
+            "options": null
+        },
+        {
+            "typeQuestion": "DecimalQuestion",
+            "question": "Altura (cm)",
+            "options": null
+        },
+        {
+            "typeQuestion": "TextQuestion",
+            "question": "Qual o motivo principal do atendimento hoje?",
+            "options": null
+        },
+        {
+            "typeQuestion": "TextItem",
+            "question": "H\u00e1 quanto tempo iniciaram os sintomas relatados?",
+            "options": null
+        },
+        {
+            "typeQuestion": "IntegerQuestion",
+            "question": "Em uma escala de 0 a 10, qual o seu n\u00edvel de dor neste momento?",
+            "options": [
+                "0",
+                "10"
+            ]
+        },
+        {
+            "typeQuestion": "SingleSelectionQuestion",
+            "question": "Voc\u00ea possui alergia a algum medicamento ou subst\u00e2ncia?",
+            "options": [
+                "Sim",
+                "N\u00e3o"
+            ]
+        },
+        {
+            "typeQuestion": "TextItem",
+            "question": "Se respondeu \"Sim\" na quest\u00e3o anterior, por favor especifique:",
+            "options": null
+        },
+        {
+            "typeQuestion": "SingleSelectionQuestion",
+            "question": "Voc\u00ea faz uso de alguma medica\u00e7\u00e3o de uso cont\u00ednuo?",
+            "options": [
+                "Sim",
+                "N\u00e3o"
+            ]
+        },
+        {
+            "typeQuestion": "TextQuestion",
+            "question": "Liste os medicamentos que utiliza atualmente e suas respectivas dosagens:",
+            "options": null
+        },
+        {
+            "typeQuestion": "CheckboxQuestion",
+            "question": "Possui diagn\u00f3stico de alguma das condi\u00e7\u00f5es abaixo?",
+            "options": [
+                "Hipertens\u00e3o",
+                "Diabetes",
+                "Asma/DPOC",
+                "Cardiopatia",
+                "Doen\u00e7a Renal",
+                "Nenhuma"
+            ]
+        },
+        {
+            "typeQuestion": "TextQuestion",
+            "question": "Voc\u00ea j\u00e1 passou por alguma interven\u00e7\u00e3o cir\u00fargica anteriormente?",
+            "options": null
+        },
+        {
+            "typeQuestion": "SingleSelectionQuestion",
+            "question": "Qual o seu hist\u00f3rico quanto ao tabagismo?",
+            "options": [
+                "Nunca fumei",
+                "Fumante ativo",
+                "Ex-fumante"
+            ]
+        },
+        {
+            "typeQuestion": "SingleSelectionQuestion",
+            "question": "Com que frequ\u00eancia consome bebidas alco\u00f3licas?",
+            "options": [
+                "Nunca",
+                "Raramente",
+                "Semanalmente",
+                "Diariamente"
+            ]
+        },
+        {
+            "typeQuestion": "SingleSelectionQuestion",
+            "question": "Apresentou febre ou calafrios nas \u00faltimas 24 horas?",
+            "options": [
+                "Sim",
+                "N\u00e3o"
+            ]
+        },
+        {
+            "typeQuestion": "TextQuestion",
+            "question": "Descreva qualquer outra observa\u00e7\u00e3o que considere relevante para a triagem:",
+            "options": null
+        }
+    ],
+    "itemContainer": [
+        {
+            "extents": "SurveyItem",
+            "objectType": "TextItem",
+            "templateID": "TML10",
+            "customID": "TML10",
+            "dataType": "String",
+            "value": {
+                "ptBR": {
+                    "extends": "StudioObject",
+                    "objectType": "Label",
+                    "oid": "",
+                    "plainText": "Nome completo do paciente",
+                    "formattedText": "Nome completo do paciente"
+                },
+                "enUS": {
+                    "extends": "StudioObject",
+                    "objectType": "Label",
+                    "oid": "",
+                    "plainText": "",
+                    "formattedText": ""
+                },
+                "esES": {
+                    "extends": "StudioObject",
+                    "objectType": "Label",
+                    "oid": "",
+                    "plainText": "",
+                    "formattedText": ""
+                }
+            }
+        },
+        "{\""
+    ],
+    "error": "Error decoding JSON for element: {\""
+}

@@ -1,0 +1,77 @@
+1. Nome completo do paciente
+Tipo: Texto curto
+2. Data do diagnóstico de Diabetes Mellitus Tipo 1
+Tipo: Data
+3. E-mail de contato para envio de relatórios
+Tipo: E-mail
+4. Telefone celular (com DDD)
+Tipo: Telefone
+5. Qual a sua idade atual?
+Tipo: Número inteiro
+6. Qual o seu peso atual em kg? (Ex: 70.5)
+Tipo: Número decimal
+7. Qual a sua altura em centímetros?
+Tipo: Número inteiro
+8. Sexo biológico
+Tipo: Múltipla escolha
+Opções: Masculino, Feminino, Intersexo
+9. Qual o tipo de insulina você utiliza para a dose basal (longa duração)?
+Tipo: Múltipla escolha
+Opções: Glargina (Lantus/Basaglar), Detemir (Levemir), Degludeca (Tresiba), NPH, Outra
+10. Quais insulinas ultrarápidas você utiliza para as refeições/correção?
+Tipo: Caixa de seleção
+Opções: Lispro (Humalog), Asparte (NovoRapid), Glulisina (Apidra), Fiasp, Humulin R
+11. Qual método de administração de insulina você utiliza?
+Tipo: Múltipla escolha
+Opções: Canetas de insulina, Seringas, Bomba de infusão contínua (CSII)
+12. Se utiliza bomba de infusão, qual o modelo?
+Tipo: Texto curto
+13. Quantas vezes ao dia, em média, você realiza a automonitorização da glicemia capilar (ponta de dedo)?
+Tipo: Número inteiro
+14. Você utiliza algum sistema de monitoramento contínuo da glicose (CGM)?
+Tipo: Múltipla escolha
+Opções: FreeStyle Libre, Dexcom, Guardian Connect, Não utilizo
+15. Qual foi o valor da sua última Hemoglobina Glicada (HbA1c)?
+Tipo: Número decimal
+16. Em qual data foi realizado o seu último exame de HbA1c?
+Tipo: Data
+17. Horário habitual em que realiza a primeira medição de glicose do dia
+Tipo: Hora
+18. Com que frequência você apresenta episódios de hipoglicemia (menor que 70 mg/dL) por semana?
+Tipo: Número inteiro
+19. Quais sintomas de hipoglicemia você costuma sentir?
+Tipo: Caixa de seleção
+Opções: Tremores, Suor frio, Tontura, Confusão mental, Fome excessiva, Visão turva, Outros
+20. Você já teve algum episódio de hipoglicemia grave (necessitou de ajuda de terceiros) no último ano?
+Tipo: Múltipla escolha
+Opções: Sim, Não
+21. Você possui prescrição e acesso ao Glucagon para emergências?
+Tipo: Múltipla escolha
+Opções: Sim, Não
+22. Você realiza a contagem de carboidratos para calcular as doses de insulina?
+Tipo: Múltipla escolha
+Opções: Sim, sempre, Às vezes, Não realizo
+23. Qual a sua relação Insulina/Carboidrato no café da manhã? (Ex: 1 unidade para X gramas)
+Tipo: Número inteiro
+24. Qual o seu fator de sensibilidade à insulina atual? (Quanto 1 unidade reduz a glicemia)
+Tipo: Número inteiro
+25. Assinale as complicações relacionadas ao DM1 que você já possui diagnóstico:
+Tipo: Caixa de seleção
+Opções: Retinopatia, Nefropatia, Neuropatia, Pé diabético, Nenhuma
+26. Quantas vezes por semana você pratica atividades físicas por pelo menos 30 minutos?
+Tipo: Número inteiro
+27. Qual o tipo de exercício físico predominante na sua rotina?
+Tipo: Texto curto
+28. Você possui outras doenças autoimunes associadas?
+Tipo: Caixa de seleção
+Opções: Doença Celíaca, Tireoidite de Hashimoto, Vitiligo, Doença de Addison, Nenhuma
+29. Quantas horas de sono você tem em média por noite?
+Tipo: Número decimal
+30. Horário em que costuma aplicar a última dose de insulina ultrarápida do dia
+Tipo: Hora
+31. Nome da unidade de saúde ou clínica onde realiza o acompanhamento
+Tipo: Texto curto
+32. Qual o nome do seu médico endocrinologista atual?
+Tipo: Texto curto
+33. Descreva brevemente suas principais dificuldades no manejo do DM1 atualmente:
+Tipo: Texto longo

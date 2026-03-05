@@ -1,0 +1,246 @@
+1. Nome completo do paciente
+Tipo: Texto curto
+2. Data de nascimento
+Tipo: Data
+3. Sexo biológico
+Tipo: Múltipla escolha
+Opções: Masculino, Feminino, Intersexo
+4. E-mail de contato
+Tipo: Email
+5. Telefone com DDD
+Tipo: Telefone
+6. Peso atual (kg)
+Tipo: Número decimal
+7. Altura (cm)
+Tipo: Número inteiro
+8. Qual o ano do diagnóstico de Diabetes Mellitus Tipo 1?
+Tipo: Número inteiro
+9. Em qual serviço de saúde foi realizado o diagnóstico?
+Tipo: Texto curto
+10. Você apresentou cetoacidose diabética (CAD) no momento do diagnóstico?
+Tipo: Múltipla escolha
+Opções: Sim, Não, Não sei
+11. Qual era o seu peso aproximado no momento do diagnóstico?
+Tipo: Número decimal
+12. Quais sintomas você apresentava antes do diagnóstico?
+Tipo: Caixa de seleção
+Opções: Polidipsia (muita sede), Poliúria (muito xixi), Polifagia (muita fome), Perda de peso inexplicada, Visão turva, Fadiga excessiva
+13. Existe histórico de DM1 em parentes de primeiro grau?
+Tipo: Múltipla escolha
+Opções: Sim, Não
+14. Você possui outras doenças autoimunes diagnosticadas?
+Tipo: Caixa de seleção
+Opções: Tireoidite de Hashimoto, Doença Celíaca, Vitiligo, Artrite Reumatóide, Doença de Addison, Nenhuma
+15. Qual o nome do seu endocrinologista atual?
+Tipo: Texto curto
+16. Com que frequência você realiza consultas com o endocrinologista?
+Tipo: Múltipla escolha
+Opções: Mensal, Trimestral, Semestral, Anual
+17. Qual foi o valor da sua última Hemoglobina Glicada (HbA1c)?
+Tipo: Número decimal
+18. Em que data foi realizado o último exame de HbA1c?
+Tipo: Data
+19. Qual o seu alvo terapêutico de HbA1c definido pelo médico?
+Tipo: Número decimal
+20. Qual o tipo de esquema insulínico você utiliza?
+Tipo: Múltipla escolha
+Opções: Múltiplas doses diárias (MDI), Sistema de Infusão Contínua (Bomba de Insulina)
+21. Qual o nome comercial da sua insulina de ação ultrarrápida?
+Tipo: Texto curto
+22. Qual o nome comercial da sua insulina de ação lenta (basal)?
+Tipo: Texto curto
+23. Quantas unidades de insulina basal você aplica por dia?
+Tipo: Número decimal
+24. A que horas você aplica a insulina basal?
+Tipo: Hora
+25. Você utiliza fator de sensibilidade para correção de hiperglicemia?
+Tipo: Múltipla escolha
+Opções: Sim, Não
+26. Qual é o seu fator de sensibilidade atual (1 UI reduz quanto de glicose)?
+Tipo: Número inteiro
+27. Você realiza a contagem de carboidratos?
+Tipo: Múltipla escolha
+Opções: Sim, Não
+28. Qual a sua relação insulina/carboidrato no café da manhã?
+Tipo: Número decimal
+29. Qual a sua relação insulina/carboidrato no almoço?
+Tipo: Número decimal
+30. Qual a sua relação insulina/carboidrato no jantar?
+Tipo: Número decimal
+31. Qual dispositivo você usa para aplicar insulina?
+Tipo: Múltipla escolha
+Opções: Seringa, Caneta descartável, Caneta reutilizável, Bomba de insulina
+32. Qual o tamanho da agulha que você utiliza (mm)?
+Tipo: Número decimal
+33. Com que frequência você troca a agulha da caneta/seringa?
+Tipo: Múltipla escolha
+Opções: A cada aplicação, Uma vez ao dia, A cada 2-3 dias, Quando perde o fio
+34. Quais locais você utiliza para aplicação de insulina?
+Tipo: Caixa de seleção
+Opções: Abdômen, Coxas, Braços, Glúteos
+35. Você realiza o rodízio sistemático dos locais de aplicação?
+Tipo: Múltipla escolha
+Opções: Sim, Não, Às vezes
+36. Você possui áreas com lipodistrofia (nódulos ou depressões na gordura)?
+Tipo: Múltipla escolha
+Opções: Sim, Não
+37. Como você armazena as insulinas em uso?
+Tipo: Texto curto
+38. Como você armazena o estoque reserva de insulina?
+Tipo: Texto curto
+39. Como você monitora sua glicemia?
+Tipo: Múltipla escolha
+Opções: Glicosímetro (ponta de dedo), Sensor de monitorização contínua (CGM), Ambos
+40. Se usa sensor, qual o modelo?
+Tipo: Texto curto
+41. Quantas vezes ao dia você realiza o teste de ponta de dedo?
+Tipo: Número inteiro
+42. Qual a sua média glicêmica dos últimos 7 dias?
+Tipo: Número inteiro
+43. Qual o seu valor de glicemia ao acordar hoje?
+Tipo: Número inteiro
+44. Qual a sua meta glicêmica pré-prandial (antes das refeições)?
+Tipo: Texto curto
+45. Qual a sua meta glicêmica pós-prandial (após as refeições)?
+Tipo: Texto curto
+46. Quantos episódios de hipoglicemia (abaixo de 70 mg/dL) você teve na última semana?
+Tipo: Número inteiro
+47. Você sente os sintomas de hipoglicemia prontamente?
+Tipo: Múltipla escolha
+Opções: Sim, Não, Às vezes
+48. Quais sintomas você sente durante uma hipoglicemia?
+Tipo: Caixa de seleção
+Opções: Tremor, Suor frio, Fome, Tontura, Confusão mental, Irritabilidade, Palpitação
+49. Qual a sua conduta padrão para corrigir hipoglicemia?
+Tipo: Texto longo
+50. Você utiliza a regra dos 15g de carboidrato para correção?
+Tipo: Múltipla escolha
+Opções: Sim, Não
+51. Quantos episódios de hipoglicemia grave (precisou de ajuda de terceiros) teve no último ano?
+Tipo: Número inteiro
+52. Você possui Glucagon em casa para emergências?
+Tipo: Múltipla escolha
+Opções: Sim, Não
+53. Quantos episódios de hiperglicemia acima de 250 mg/dL teve na última semana?
+Tipo: Número inteiro
+54. Você realiza teste de cetonas quando a glicemia está alta?
+Tipo: Múltipla escolha
+Opções: Sim, Não
+55. Qual método usa para testar cetonas?
+Tipo: Múltipla escolha
+Opções: Fita de urina, Fita de sangue, Não realizo
+56. Você pratica exercícios físicos?
+Tipo: Múltipla escolha
+Opções: Sim, Não
+57. Quantas vezes por semana você se exercita?
+Tipo: Número inteiro
+58. Qual o tipo de exercício predominante?
+Tipo: Texto curto
+59. Qual a duração média da sessão de exercício (minutos)?
+Tipo: Número inteiro
+60. Qual a sua conduta com a insulina antes de iniciar o exercício?
+Tipo: Texto longo
+61. Você consome carboidratos extras durante o exercício?
+Tipo: Múltipla escolha
+Opções: Sim, Não
+62. Já teve hipoglicemia tardia (horas após o exercício)?
+Tipo: Múltipla escolha
+Opções: Sim, Não
+63. Você segue um plano alimentar orientado por nutricionista?
+Tipo: Múltipla escolha
+Opções: Sim, Não
+64. Quantas refeições você faz por dia?
+Tipo: Número inteiro
+65. Você consome produtos "diet" ou "zero açúcar" diariamente?
+Tipo: Múltipla escolha
+Opções: Sim, Não
+66. Qual a sua ingestão diária aproximada de água (litros)?
+Tipo: Número decimal
+67. Você costuma ler os rótulos dos alimentos antes de comprar?
+Tipo: Múltipla escolha
+Opções: Sim, Não
+68. Quando foi seu último exame de fundo de olho?
+Tipo: Data
+69. Você já teve diagnóstico de Retinopatia Diabética?
+Tipo: Múltipla escolha
+Opções: Sim, Não
+70. Quando foi seu último exame de microalbuminúria (urina)?
+Tipo: Data
+71. Você sente formigamento ou queimação nos pés?
+Tipo: Múltipla escolha
+Opções: Sim, Não
+72. Você examina seus pés diariamente em busca de lesões?
+Tipo: Múltipla escolha
+Opções: Sim, Não
+73. Quando foi sua última avaliação de sensibilidade nos pés (monofilamento)?
+Tipo: Data
+74. Como está sua pressão arterial habitualmente?
+Tipo: Texto curto
+75. Você fuma?
+Tipo: Múltipla escolha
+Opções: Sim, Não, Ex-fumante
+76. Qual o seu nível de estresse relacionado ao diabetes (0 a 10)?
+Tipo: Escala linear
+Opções: 0, 10
+77. Você participa de grupos de apoio ou associações de diabéticos?
+Tipo: Múltipla escolha
+Opções: Sim, Não
+78. Você sente que o diabetes interfere na sua vida social?
+Tipo: Múltipla escolha
+Opções: Sim, Não, Às vezes
+79. Quantas horas você dorme por noite, em média?
+Tipo: Número decimal
+80. Você acorda durante a noite para testar a glicemia ou corrigir valores?
+Tipo: Múltipla escolha
+Opções: Sim, Não
+81. Qual a marca do seu glicosímetro principal?
+Tipo: Texto curto
+82. Você utiliza algum aplicativo para registrar glicemias?
+Tipo: Múltipla escolha
+Opções: Sim, Não
+83. Se sim, qual o nome do aplicativo?
+Tipo: Texto curto
+84. Você viaja com frequência?
+Tipo: Múltipla escolha
+Opções: Sim, Não
+85. Você carrega consigo uma identificação informando que tem diabetes?
+Tipo: Múltipla escolha
+Opções: Sim, Não
+86. (Se mulher) Você utiliza métodos contraceptivos?
+Tipo: Múltipla escolha
+Opções: Sim, Não, Não se aplica
+87. (Se mulher) Você planeja engravidar nos próximos 12 meses?
+Tipo: Múltipla escolha
+Opções: Sim, Não, Não se aplica
+88. Você consome bebidas alcoólicas?
+Tipo: Múltipla escolha
+Opções: Sim, Não
+89. Se sim, com que frequência?
+Tipo: Texto curto
+90. Você percebeu alterações na sua saúde bucal recentemente?
+Tipo: Múltipla escolha
+Opções: Sim, Não
+91. Quando foi sua última consulta odontológica?
+Tipo: Data
+92. Você se sente capacitado para ajustar suas doses de insulina sozinho?
+Tipo: Múltipla escolha
+Opções: Sim, Não, Apenas com supervisão
+93. Qual a sua maior dificuldade no tratamento hoje?
+Tipo: Texto longo
+94. Você faz uso de alguma medicação oral além da insulina?
+Tipo: Texto curto
+95. Você já teve episódios de convulsão por hipoglicemia?
+Tipo: Múltipla escolha
+Opções: Sim, Não
+96. Qual o seu valor médio de colesterol LDL?
+Tipo: Número inteiro
+97. Você utiliza estatinas?
+Tipo: Múltipla escolha
+Opções: Sim, Não
+98. Você sente fadiga crônica?
+Tipo: Múltipla escolha
+Opções: Sim, Não
+99. Qual o horário da sua última aplicação de insulina hoje?
+Tipo: Hora
+100. Descreva suas principais dúvidas sobre DM1 para a próxima consulta:
+Tipo: Texto longo
